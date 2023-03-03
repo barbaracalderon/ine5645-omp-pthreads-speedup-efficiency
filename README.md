@@ -17,4 +17,4 @@ This repository was created to solve, in C language and individually, a problem 
 
 The problem solved here is directly linked to the following repository [ine5645-pthreads-speedup-efficiency](https://github.com/barbaracalderon/ine5645-pthreads-speedup-efficiency). 
 
-But here's the solution was proposed using OpenMP.
+But the solution here was proposed using OpenMP.
